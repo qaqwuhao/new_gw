@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const APPNAME = 'Joliy'
+const APPNAME = 'Monika'
 const EMAILADDRESS = 'wuqiliopm@163.com'
 </script>
 
